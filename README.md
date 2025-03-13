@@ -8,7 +8,7 @@
 ## Sobre mim
 
 - Desenvolvedor Backend
-- Atualmente aprodundando em Java
+- Atualmente aprofundando em Java
 
 ## Tecnologias utilizadas no dia a dia
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
